@@ -7,7 +7,7 @@ A discord bot that can be used to send message to a specific channel.
 This bot runs on [node.js](https://nodejs.org). You will need at least node 12. In order for music playback to work, you will need python and ffmpeg to be present on your system.
 ## General
 
-Install [node 12 or newer]((https://nodejs.org/en/download/)), Python, and FFmpeg, along with a C compiler for npm to use.
+Install [node 12 or newer]((https://nodejs.org/en/download/)) .
 
 Run `npm install` in the bot directory and make sure it passes.
 
