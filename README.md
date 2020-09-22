@@ -4,8 +4,7 @@ A discord bot that can be used to send message to a specific channel.
 - `>channelmsg #channelname <content>` -> Send message to the mentioned channel.
 # Installation
 
-This bot runs on [node.js](https://nodejs.org). You will need at least node 12. In order for music playback to work, you will need python and ffmpeg to be present on your system.
-## General
+This bot runs on [node.js](https://nodejs.org). You will need at least node 12.
 
 Install [node 12 or newer]((https://nodejs.org/en/download/)) .
 
